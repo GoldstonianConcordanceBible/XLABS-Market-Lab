@@ -1,11 +1,11 @@
 # XLABS-Market-Lab
-# [LAB NAME] — Pons Market Labs
+# [SPCX] — Pons Market Labs
 
 [LAB NAME] is an independent Pons Market Labs reference-asset research and education experiment.
 
 Reference subject: [COMPANY / ASSET / THEME]  
-Ticker: [$TICKER]  
-Live Lab: [PONS LINK]
+Ticker: [SPCX]  
+Live Lab: [https://www.ponsfamily.com/launchpad/0xA0b4f63e2595Ed538F3ccb8c6327aA256C02C307]
 
 ## Purpose
 
@@ -35,7 +35,7 @@ Participation is experimental and risky.
 
 ## Live Record
 
-Launchpad: [PONS LINK]
+Launchpad: [https://www.ponsfamily.com/launchpad/0xA0b4f63e2595Ed538F3ccb8c6327aA256C02C307]
 
 Control Tower will track:
 
